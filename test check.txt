@@ -1,0 +1,1 @@
+test check untuk auto pipeline
